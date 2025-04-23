@@ -1,6 +1,19 @@
 p {
                 font-size: 24px; 
                 background-color: #00FFFF; 
-                color: #FF00FF;
+                color: #FF0000;
                 text-align: center;
+}
+
+#baixo{
+    font-size: 12px;
+    background-color: beige;
+}
+
+#marca{
+    font-size: 30px;
+    background-color: blueviolet;   
+}
+
+body{background: #000000;
 }

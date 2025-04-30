@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    display: flex;
+    font-family: Arial, sans-serif;
+flex-direction: row-reverse;
+    }
+
+.sidebar {
+    width: 120px; /* ajuste conforme necessário */
+    background-color: #f0f0f0;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sidebar img {
+    width: 100px; /* ajuste conforme necessário */
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+}
+
+.conteudo {
+    flex-grow: 1;
+    padding: 20px;
+}
